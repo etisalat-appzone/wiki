@@ -6,10 +6,14 @@
 
 
   * **SMS**
-    * [Java Guide](http://code.google.com/p/etisalat-appzone/wiki/JavaGuide)
-    * [.NET Guide](http://code.google.com/p/etisalat-appzone/wiki/DotNetGuide)
+    * [Java Guide](https://github.com/etisalat-appzone/wiki/blob/master/guides/JavaGuide.md)
+    * [.NET Guide](https://github.com/etisalat-appzone/wiki/blob/master/guides/DotNetGuide.md)
     * [PHP Guide](PHPGuide#SMS_Guide.md)
     * [Ruby Guide](RubyGuide#SMS_Guide.md)
 
   * **Video**
-    * [Video Guides](VideoDemos.md)
+    <p><font size='4'> <b> Video Demos </b> </font> </p>
+<p align='justify'>Watch demonstrations on how to develop mChoice Applications, done by<br>
+our community experts...<br>
+<ul><li><a href='http://www.youtube.com/watch?v=JBmOkNQz_Qk'>How to develop a mobile Application Using Mchoice Aventura APIs</a></li>
+<li><a href='http://www.youtube.com/watch?v=zgnFuJux62w&feature=related'>How to work with mChoice Aventura simulator</a></li></ul></p>

@@ -42,7 +42,8 @@ and much more...</p><ul>
 <li><a href='https://github.com/etisalat-appzone/wiki/raw/master/binaries/gson-1.7.2.jar'>Gson</a></li>
 <li><a href='https://github.com/etisalat-appzone/wiki/raw/master/binaries/sdp-app-api-1.1.50.jar'>SDP App API</a></li>
 <li><a href='https://github.com/etisalat-appzone/wiki/raw/master/binaries/servlet-api-2.4.jar'>Servlet API</a></li>
-<li><a href='https://www.dropbox.com/sh/82rqkpgf9ae2hyh/AADNBp-0u_OsTPwnRDoM7NJha/subscribers-php-app.tar.gz?dl=0'>PHP Sample App</a></li>
+<li><a href='https://github.com/etisalat-appzone/wiki/blob/master/sample-apps/php-sample-app.tar.gz?raw=true'>PHP Sample App</a></li>
+<li><a href='https://github.com/etisalat-appzone/wiki/blob/master/sample-apps/java-sample-app.tar.gz?raw=true'>Java Sample App</a></li>
 </ul></td></tr></table>
 
 <table width='800' border='0'>

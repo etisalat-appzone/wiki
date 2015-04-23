@@ -5,7 +5,7 @@
 
   * Software Requirements:
     * **JDK 1.6+**
-    * **[Simulator](https://www.dropbox.com/s/5o38ufvecq4m0gp/sdk-standalone-1.1.50-distribution.zip)**
+    * **[Simulator](https://github.com/etisalat-appzone/wiki/raw/master/binaries/sdk-standalone-1.1.50-distribution.zip)**
     * **Tomcat** (or any server of your choice)
     * **IDE of your choice** ( This guide is done on Eclipse IDE )
 
@@ -54,11 +54,10 @@ Now we are done with the creation of the project.
 
 > The next step, is to attach the necessary API’s needed to create this java application. These can be downloaded by following links.
 
-[Gson](https://www.dropbox.com/s/pj6ib9wed4o3hsw/gson-1.7.2.jar)
+[Gson](https://github.com/etisalat-appzone/wiki/raw/master/binaries/gson-1.7.2.jar)
 
-[SDP App API](https://www.dropbox.com/s/5fzgl9r67b3x5l9/sdp-app-api-1.1.50.jar)
+[SDP App API](https://github.com/etisalat-appzone/wiki/raw/master/binaries/sdp-app-api-1.1.50.jar)
 
-[Servlet API](https://www.dropbox.com/s/ivxo7ruri1gvaz5/servlet-api-2.4.jar)
 
 > After downloading, you can right-click on the project and select **Properties**. Then choose **java build path** and select **libraries**. Select **Add External JARs** and select the downloaded JARs and import them. Select **OK**.
 
